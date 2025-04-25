@@ -1,3 +1,5 @@
 bot_logging.log
 .vscode
 __pycache__
+myenv
+.gitignore
